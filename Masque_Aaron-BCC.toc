@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: Masque: Aaron
+## Version: 1.0.0
+## Author: Darsain (I was only forking this and adapt version to current)
+## Notes: This is fork of original Masque_Aaron.
+## Dependencies: Masque
+
+Aaron.lua
+ProfanityHelper.lua
